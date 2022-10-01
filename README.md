@@ -30,7 +30,7 @@ My GitHub Profile [RAVINANDAN](https://github.com/RaviTechnoMindz)
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>  
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/File_Share_Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/jnaneshtngowda/batchfilestorebotjnanesh">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
