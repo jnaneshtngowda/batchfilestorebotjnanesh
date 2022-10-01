@@ -27,7 +27,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #start message
 START_MSG = os.environ.get("START_MESSAGE", """𝙷𝙴𝙻𝙻𝙾 👋 {first},
- 𝗜 𝗖𝗮𝗻 𝗦𝘁𝗼𝗿𝗲 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗙𝗶𝗹𝗲𝘀 𝗶𝗻 𝗦𝗽𝗲𝗰𝗳𝗶𝗲𝗱 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗔𝗻𝗱 𝗢𝘁𝗵𝗲𝗿 𝗨𝘀𝗲𝗿𝘀 𝗖𝗮𝗻 𝗔𝗰𝗲𝘀𝘀 𝗜𝘁 𝗙𝗿𝗼𝗺 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗟𝗶𝗻𝗸\n\n𝐌𝐘 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 👇👇👇\n<a href=https://t.me/Technomindzyt><b>༒☬𝓡𝓐𝓥𝓘𝓝𝓐𝓝𝓓𝓐𝓝☬༒</b></a> \n\nℕ𝕖𝕖𝕕 𝕋𝕠 𝔻𝕖𝕡𝕝𝕠𝕪 𝕐𝕠𝕦𝕣 𝕆𝕨𝕟 ?\nℂ𝕠𝕟𝕥𝕒𝕔𝕥 ℍ𝕖𝕣𝕖 @TechnoMindzChat\n\n𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 @TmMainChannel""")
+ 𝗜 𝗖𝗮𝗻 𝗦𝘁𝗼𝗿𝗲 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗙𝗶𝗹𝗲𝘀 𝗶𝗻 𝗦𝗽𝗲𝗰𝗳𝗶𝗲𝗱 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗔𝗻𝗱 𝗢𝘁𝗵𝗲𝗿 𝗨𝘀𝗲𝗿𝘀 𝗖𝗮𝗻 𝗔𝗰𝗲𝘀𝘀 𝗜𝘁 𝗙𝗿𝗼𝗺 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗟𝗶𝗻𝗸\n\n𝐌𝐘 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 👇👇👇\n<a href=https://t.me/Beastonejnanesh><b>jnanesh</b></a> \n\nℕ𝕖𝕖𝕕 𝕋𝕠 𝔻𝕖𝕡𝕝𝕠𝕪 𝕐𝕠𝕦𝕣 𝕆𝕨𝕟 ?\nℂ𝕠𝕟𝕥𝕒𝕔𝕥 ℍ𝕖𝕣𝕖 @Beastonejnanesh\n\n𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 @Beastonejnanesh"")
 try:
     ADMINS=[]
     for x in (os.environ.get("ADMINS", "").split()):
@@ -47,25 +47,7 @@ default_custom_caption = """
 ❤️‍🔥 𝙁𝙞𝙧𝙨𝙩 𝙊𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 ❤️‍🔥
 
 𝙍𝙚𝙦𝙪𝙚𝙨𝙩 𝙔𝙤𝙪𝙧 𝙈𝙤𝙫𝙞𝙚𝙨 𝙃𝙚𝙧𝙚 𝙖𝙣𝙙 𝙂𝙚𝙩 𝙄𝙣 1 𝙈𝙞𝙣𝙪𝙩𝙚 100℅👇
-@TechnoMoviesCollection
-
-𝕊𝕌𝔹𝕊ℂℝ𝕀𝔹𝔼 𝕆𝕌ℝ 𝕐𝕆𝕌𝕋𝕌𝔹𝔼 ℂℍ𝔸ℕℕ𝔼𝕃 🥰 👇
-https://www.youtube.com/c/TechnoMindz
-
-🔗 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞 ☞
-@TmMainchannel
-
-╔══ 𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬 ═══╗
-<a href="https://t.me/tmmainchannel">1☞𝙅𝙤𝙞𝙣 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝘾𝙝𝙖𝙣𝙣𝙚𝙡</a>
-
-<a href="https://t.me/technomoviescollection">2☞ 𝙅𝙤𝙞𝙣 𝙈𝙤𝙫𝙞𝙚𝙨 𝙂𝙧𝙤𝙪𝙥</a>
-
-<a href="https://t.me/technomindzchat">3☞ 𝙅𝙤𝙞𝙣 𝘾𝙝𝙖𝙩𝙩𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥</a>
-╚══ 𝐉𝐨𝐢𝐧 𝐖𝐢𝐭𝐡 𝐔𝐬 ═══╝
-
-♥️ 𝗧𝗲𝗮𝗺 ➜ @TmMainChannel
-
-✯ ━━━━━ ✧ ━━━━━ ✯
+@rockersmoviejnaneshgroup
 """
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", default_custom_caption)
 
